@@ -1,0 +1,59 @@
+h1 {
+  color: #74c7ec;
+  text-align: center;
+  font-size: 90px;
+}
+
+h2 {
+  color: #a6e3a1;
+  text-align: center;
+  font-size: 50px;
+}
+
+.hacky {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+body {
+  background: #1e1e2e;
+}
+
+p {
+  position: relative;
+  text-align: center;
+  color: #cdd6f4;
+  font-size: 30px;
+}
+
+.container {
+  background: #1e1e2e;
+  position: relative;
+  text-align: center;
+  color: #89dceb;
+}
+
+.Main_P {
+  font-size: 120px;
+}
+
+.custom-btn {
+  width: 150px;
+  height: 50px;
+  color: #fff;
+  border-radius: 5px;
+  // padding: 10px 25px;
+}
+
+.buttons {
+  background: #585b70;
+}
+
+.buttons:hover {
+  background: #fab387;
+}
