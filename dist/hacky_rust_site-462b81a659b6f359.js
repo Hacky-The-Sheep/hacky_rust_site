@@ -621,7 +621,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('hacky_rust_site-44198d2a1d05b2cc_bg.wasm', import.meta.url);
+        input = new URL('hacky_rust_site-462b81a659b6f359_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 
