@@ -1,13 +1,18 @@
+html {
+  max-width: 1000px;
+}
+
 h1 {
   color: #74c7ec;
-  text-align: center;
-  font-size: 90px;
+  text-align: left;
+  font-size: 60px;
 }
+
 
 h2 {
   color: #a6e3a1;
-  text-align: center;
-  font-size: 50px;
+  text-align: left;
+  font-size: 35px;
 }
 
 .hacky {
@@ -15,9 +20,15 @@ h2 {
   width: 150px;
   border-radius: 50%;
   display: block;
-  margin-left: auto;
+  // margin-left: auto;
   margin-right: auto;
 
+}
+
+.sample_items {
+  color: #a6e3a1;
+  text-align: left;
+  font-size: 30px;
 }
 
 body {
@@ -26,9 +37,10 @@ body {
 
 p {
   position: relative;
-  text-align: center;
+  text-align: left;
   color: #cdd6f4;
-  font-size: 30px;
+  font-size: 20px;
+  width: 100%;
 }
 
 .container {
@@ -46,8 +58,7 @@ p {
   width: 150px;
   height: 50px;
   color: #fff;
-  border-radius: 5px;
-  // padding: 10px 25px;
+  border-radius: 2px;
 }
 
 .buttons {
