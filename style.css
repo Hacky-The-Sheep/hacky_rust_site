@@ -8,21 +8,26 @@ h1 {
   font-size: 60px;
 }
 
+.cat {
+  color: #89dceb;
+  font-size: 20px;
+  text-decoration: none;
+  font-style: italic;
+}
 
 h2 {
-  color: #a6e3a1;
+  color: #f5e0dc;
   text-align: left;
   font-size: 35px;
+  font-style: italic;
 }
 
 .hacky {
-  height: 150px;
-  width: 150px;
-  border-radius: 50%;
+  height: 300px;
+  width: 200px;
+  border-radius: 40%;
   display: block;
-  // margin-left: auto;
-  margin-right: auto;
-
+  align: center;
 }
 
 .sample_items {
